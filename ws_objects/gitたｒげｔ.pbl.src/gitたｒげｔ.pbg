@@ -1,0 +1,18 @@
+﻿Save Format v3.0(19990112)
+@begin Libraries
+ "gitたｒげｔ.pbl" "";
+@end;
+@begin Objects 
+ "gitたｒげｔ.sra" "gitたｒげｔ.pbl";
+ "m_gitたｒげｔ_frame.srm" "gitたｒげｔ.pbl";
+ "m_gitたｒげｔ_sheet.srm" "gitたｒげｔ.pbl";
+ "n_gitたｒげｔ_connectservice.sru" "gitたｒげｔ.pbl";
+ "n_gitたｒげｔ_sheetmanager.sru" "gitたｒげｔ.pbl";
+ "w_gitたｒげｔ_about.srw" "gitたｒげｔ.pbl";
+ "w_gitたｒげｔ_basesheet.srw" "gitたｒげｔ.pbl";
+ "w_gitたｒげｔ_frame.srw" "gitたｒげｔ.pbl";
+ "w_gitたｒげｔ_sheet1.srw" "gitたｒげｔ.pbl";
+ "w_gitたｒげｔ_sheet2.srw" "gitたｒげｔ.pbl";
+ "w_gitたｒげｔ_sheet3.srw" "gitたｒげｔ.pbl";
+ "w_gitたｒげｔ_toolbars.srw" "gitたｒげｔ.pbl";
+@end;
